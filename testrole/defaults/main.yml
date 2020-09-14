@@ -1,0 +1,4 @@
+---
+# defaults file for testrole
+testvar: "role"
+template_var: "template"
